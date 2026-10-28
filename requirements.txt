@@ -1,0 +1,4 @@
+numpy
+opencv-python>=4.4   # SIFT is in the main module since 4.4 (patent expired)
+matplotlib
+psutil               # optional: better memory monitoring
